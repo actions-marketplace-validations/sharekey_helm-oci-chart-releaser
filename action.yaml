@@ -1,6 +1,6 @@
-name: Helm OCI Chart Releaser
+name: Helm Chart Releaser OCI
 description: Push Helm charts to OCI-based (Docker) registries
-author: sergeyshaykhullin
+author: sharekey
 branding:
   color: yellow
   icon: upload-cloud
